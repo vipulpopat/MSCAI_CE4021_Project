@@ -1,0 +1,564 @@
+Town,Average_House_Price,Crime_Rate
+Abbeyfeale,105987,1.11
+Abbeyleix,189308,1.01
+Achill Sound,91188,0.12
+Adare,280548,0.35
+Aglish,107557,0.37
+Ahascragh,334005,0.60
+An Clochan Liath,95823,0.79
+An Craoslach,103798,0.42
+An Maim,#N/A,#N/A
+An Rinn,187667,0.26
+An Spideal,296375,0.54
+Anglesea Street,359000,24.10
+Annascaul,183411,0.79
+Aran Mor,124750,4.59
+Ard An Rátha,93831,0.57
+Ardee,179178,0.55
+Ardfert,113714,0.89
+Ardfinnan,137012,0.58
+Ardmore,333696,0.77
+Ardnacrusha,298133,2.59
+Ardrahan,230693,0.66
+Arklow,187776,0.89
+Arles,125000,2.54
+Arva,84518,0.75
+Ashbourne,278724,1.31
+Ashford,418218,2.18
+Askeaton,137282,0.76
+Athboy,178655,0.94
+Athea,97066,#N/A
+Athenry,198630,0.41
+Athleague,98063,0.43
+Athlone,148383,1.54
+Athy,138267,0.93
+Aughrim,205196,0.43
+Avoca,256132,1.09
+Bailieboro,116311,0.86
+Balbriggan,200775,0.64
+Balla,97928,0.44
+Ballaghderreen,61667,1.06
+Ballina,140138,3.59
+Ballinagh,126830,0.33
+Ballinamore,100910,0.95
+Ballinasloe,108120,1.26
+Ballincollig,274630,0.48
+Ballindine,64486,0.49
+Ballineen,140500,0.91
+Ballingarry,122939,0.80
+Ballingarry North,122939,0.26
+Ballingarry South,122939,0.82
+Ballinhassig,309396,#N/A
+Ballinlough,244878,3.13
+Ballinrobe,101129,0.55
+Ballintra,87091,1.14
+Ballivor,163701,0.66
+Ballon,188700,1.35
+Ballybay,65429,0.98
+Ballybofey,103592,1.09
+Ballybunion,105167,1.65
+Ballyconnell,87451,2.09
+Ballycotton,225283,0.30
+Ballycroy,65964,0.23
+Ballycullane,142829,2.09
+Ballydehob,183632,0.45
+Ballydesmond,98708,1.11
+Ballyduff,145722,0.81
+Ballyfermot,182004,0.77
+Ballyferriter,135528,#N/A
+Ballygar,90070,2.55
+Ballyhale,114907,1.34
+Ballyhaunis,79933,0.67
+Ballyheigue,132167,0.54
+Ballyjamesduff,121509,0.61
+Ballylanders,173432,1.48
+Ballylinan,154000,0.88
+Ballymacarbry,138854,3.59
+Ballymahon,102362,0.77
+Ballymore,135548,0.49
+Ballymote,83857,0.78
+Ballymun,163481,1.24
+Ballynacargy,77219,2.99
+Ballyneety,259544,#N/A
+Ballynoe,220869,0.60
+Ballyporeen,122132,0.42
+Ballyshannon,100922,1.99
+Ballyvaughan,129854,0.32
+Ballyvourney,126083,1.41
+Baltimore,233720,0.82
+Baltinglass,180109,1.33
+Banagher,110242,0.51
+Bandon,181360,3.55
+Bangor Erris,53963,0.91
+Bansha,115478,0.52
+Bantry,154463,1.17
+Barnaderg,95000,#N/A
+Barraduff,53444,#N/A
+Beal an Mhuirthead,108430,0.87
+Beal Atha an Ghaorthaidh,114583,0.38
+Belturbet,78212,1.22
+Bennettsbridge,319298,0.59
+Birr,128236,0.99
+Bishopstown,348250,0.76
+Blacklion,343486,1.90
+Blackrock Co Cork,182000,#N/A
+Blackrock Co Dublin,427500,0.67
+Blackrock Co Louth,268722,0.90
+Blackwater,174800,#N/A
+Blanchardstown,242764,1.00
+Blarney,255885,0.91
+Blessington,276529,1.24
+Boherbue,84202,0.80
+Bonniconlon,183222,#N/A
+Borris,165545,0.84
+Borris-In-Ossory,155000,0.85
+Borrisokane,115900,0.66
+Borrisoleigh,104838,0.55
+Boyle,97961,0.78
+Bray,362563,2.22
+Bridewell Cork,#N/A,23.10
+Bridewell Dublin,#N/A,#N/A
+Bruff,112122,1.06
+Bruree,115010,0.50
+Bunbeg,60000,#N/A
+Bunclody,139055,1.42
+Buncrana,125234,0.97
+Bundoran,85994,1.53
+Burnfoot,134497,4.42
+Burtonport,77549,1.67
+Buttevant,130108,0.73
+Cabinteely,569662,1.02
+Cabra,322399,0.83
+Caherciveen,117904,1.75
+Caherconlish,165039,0.50
+Cahir,125464,3.68
+Callan,163427,0.79
+Campile,146500,1.28
+Cappamore,122725,0.75
+Cappawhite,110209,1.37
+Cappoquin,111921,0.77
+Carbury,202252,1.08
+Carlingford,196571,1.00
+Carlow,152023,1.56
+Carna,117500,0.16
+Carndonagh,103165,1.34
+Carnew,175165,0.66
+Carraroe,77500,1.04
+Carrick,92418,0.10
+Carrickbyrne,#N/A,2.05
+Carrickmacross,161138,1.36
+Carrick-on-Bannow,220000,#N/A
+Carrick-On-Shannon,129647,1.61
+Carrick-On-Suir,132567,0.98
+Carrigaline,266676,0.49
+Carrigallen,111423,0.42
+Carrigans,126274,3.57
+Carrigart,186253,1.11
+Carrigtwohill,239404,0.26
+Cashel,128617,9.62
+Castlebar,125796,1.02
+Castlebellingham,187504,1.54
+Castleblayney,138677,1.60
+Castlebridge,183022,0.81
+Castlecomer,148329,1.33
+Castleconnell,219252,0.96
+Castledermot,170458,1.04
+Castlefin,64820,0.92
+Castlegregory,155997,0.55
+Castleisland,105154,0.76
+Castlemaine,145894,3.06
+Castlepollard,139047,1.45
+Castlerea,72884,1.08
+Castletownbere,149530,1.19
+Castletownroche,112508,0.85
+Cavan,122459,1.32
+Celbridge,339084,0.64
+Charlestown,92379,1.64
+Charleville,111126,0.94
+Clane,272998,0.77
+Clara,119205,4.02
+Claremorris,110657,0.85
+Clifden,137443,1.17
+Cloch na Ron,281554,0.44
+Cloghan,112464,0.81
+Clogheen,160887,0.54
+Clogher,119501,0.11
+Clogherhead,192256,0.48
+Clonakilty,211546,0.85
+Clonark,#N/A,#N/A
+Clonaslee,106036,0.52
+Clonbologue,165775,0.63
+Clondalkin,237718,0.77
+Clones,68403,4.68
+Clonmany,99850,2.07
+Clonmel,150938,1.11
+Clonroche,166234,0.86
+Clontarf,599706,0.76
+Cloughjordan,105660,0.32
+Cloyne,171226,0.14
+Coachford,260357,1.76
+Cobh,173218,0.55
+Collon,213545,0.44
+Collooney,111286,0.57
+Cong,213728,0.53
+Convoy,77536,0.68
+Coolaney,109094,0.28
+Coolock,263721,#N/A
+Cootehill,92876,1.31
+Corofin,165903,0.40
+Corofin,165903,0.62
+Courtown Harbour,154192,1.31
+Craughwell,222020,0.61
+Creggs,126129,0.28
+Crookstown,247467,#N/A
+Croom,183951,0.79
+Crosshaven,281523,0.57
+Crossmolina,100505,0.53
+Crumlin,276033,1.13
+Crusheen,139751,0.37
+Daingean,141128,0.83
+Delvin,192324,1.56
+Dingle,219007,1.01
+Dolla,126500,1.22
+Donegal Town,134193,1.00
+Doneraile,91310,0.63
+Donnybrook,716355,#N/A
+Douglas,297776,0.49
+Dowra,48929,1.23
+Drimoleague,146873,1.27
+Drinagh,161357,0.14
+Drogheda,188301,0.86
+Drumad,#N/A,#N/A
+Drumcollogher,97938,0.88
+Drumlish,117574,0.51
+Drumshambo,100250,1.06
+Dublin Airport,#N/A,#N/A
+Duleek,209855,0.56
+Dun Fionnachaid,#N/A,0.81
+Dun Laoghaire,492175,1.41
+Dunboyne,390828,0.59
+Duncannon,168099,4.38
+Dundalk,161122,3.68
+Dundrum,479273,1.61
+Dungarvan,174720,1.25
+Dunlavin,298543,0.90
+Dunleer,208524,0.73
+Dunmanway,148186,0.94
+Dunmore,92969,1.12
+Dunmore East,220748,0.74
+Dunshaughlin,307854,0.70
+Durrow,186928,0.80
+Durrus,242643,0.30
+Edenderry,121736,0.66
+Edgeworthstown,81420,1.39
+Elphin,87100,0.58
+Emly,79018,0.53
+Emyvale,124783,1.13
+Enfield,253314,0.68
+Ennis,148834,1.16
+Enniscorthy,138709,0.97
+Enniscrone,102009,1.15
+Enniskerry,615735,0.78
+Ennistymon,91812,1.58
+Eyrecourt,87139,0.93
+Falcarragh,106793,0.76
+Farranfore,171000,1.21
+Ferbane,98660,1.04
+Fermoy,160453,0.96
+Ferns,180620,0.93
+Ferrybank,147086,3.69
+Fethard,142824,1.88
+Finglas,209455,1.85
+Fitzgibbon Street,#N/A,#N/A
+Foxford,123799,0.84
+Foynes,146375,2.03
+Frenchpark,68220,0.91
+Freshford,274413,0.42
+Gaillimh,275000,0.83
+Garristown,370656,0.58
+Glanmire,283221,0.65
+Glantane,169625,0.54
+Glasson,229819,0.73
+Glenamaddy,122695,0.48
+Glenamoy,25000,2.11
+Glenbeigh,172381,0.85
+Glengarriff,236450,0.37
+Glenmore,122891,1.56
+Glenties,125410,1.04
+Glin,166116,0.43
+Glynn,164482,1.32
+Golden,194870,0.43
+Goresbridge,150760,1.96
+Gorey,183378,0.99
+Gort,131711,1.08
+Graiguenamanagh,137669,0.74
+Granard,86698,1.85
+Grange,235542,1.18
+Greystones,435985,1.64
+Gurranabraher,195310,4.45
+Gurteen,96949,1.66
+Hackballscross,228083,#N/A
+Hacketstown,92238,0.57
+Headford,162464,0.56
+Henry Street,98714,#N/A
+Holycross,147979,0.43
+Hospital Co Limerick,#N/A,#N/A
+Howth,744003,1.41
+Indreabhan,168057,#N/A
+Innishannon,309616,0.31
+Irishtown,246417,#N/A
+Kanturk,122884,1.65
+Keadue,81401,0.63
+Kealkil,148750,0.50
+Keel,111625,#N/A
+Kells,164307,1.12
+Kenagh,88533,0.56
+Kenmare,192943,0.71
+Kerrykeel,114108,2.25
+Kevin Street,215000,#N/A
+Kilbeggan,144600,0.95
+Kilbrittain,490011,0.45
+Kilcock,268817,0.63
+Kilconnell,89625,0.89
+Kilcormac,115684,0.62
+Kilcullen,232819,1.10
+Kildare,232745,0.78
+Kildorrery,149084,0.90
+Kildysart,91150,0.38
+Kilkee,136361,3.54
+Kilkelly,117033,0.62
+Kilkenny,191701,1.25
+Kill Co Waterford,180614,#N/A
+Killala,85550,0.61
+Killaloe,200698,1.94
+Killarney,212175,0.95
+Killeagh,188913,3.04
+Killenaule,212463,1.25
+Killeshandra,110758,0.36
+Killimor,93192,1.53
+Killorglin,169062,0.51
+Killucan,175575,0.58
+Killybegs,122194,1.25
+Kilmacow,188207,0.73
+Kilmacrennan,182749,0.66
+Kilmacthomas,141458,0.84
+Kilmaine,96954,0.25
+Kilmainham,330102,47.28
+Kilmallock,115405,2.07
+Kilmeaden,208091,0.50
+Kilmoganny,91000,0.43
+Kilmore Quay,180917,0.67
+Kilnaleck,125400,1.17
+Kilrickle,165000,1.41
+Kilronan,81667,0.78
+Kilrush,95068,6.52
+Kilsheelan,136610,0.65
+Kiltimagh,69289,0.84
+Kiltormer,79667,0.39
+Kilworth,179625,0.30
+Kingscourt,146438,0.55
+Kinlough,86202,0.87
+Kinnegad,179702,0.93
+Kinnitty,159007,0.83
+Kinsale,355902,0.90
+Kinvara,219506,0.35
+Knock,89504,2.39
+Knocknagoshel,99697,1.35
+Lanesboro,84306,#N/A
+Laytown,209959,0.83
+Leach Seoirse,#N/A,#N/A
+Leamybrien,126100,4.11
+Leitir Mor,153976,0.35
+Leixlip,321443,0.56
+Letterfrack,152844,#N/A
+Letterkenny,116085,2.01
+Lifford,97868,0.99
+Liscarroll,136225,0.62
+Lisdoonvarna,101154,0.91
+Lismore,191465,0.55
+Lissycasey,150021,1.01
+Listowel,117078,1.32
+Littleton,75867,0.80
+Lixnaw,121472,0.57
+Longford,90597,1.37
+Longwood,237061,0.59
+Lorrha,155944,0.60
+Loughrea,129253,9.18
+Louisburgh,173421,0.53
+Louth,201633,0.60
+Lucan,315542,0.46
+Lusk,279695,0.80
+Macroom,155838,1.12
+Maigh Cuilinn,229000,0.33
+Malahide,558451,1.16
+Mallow,152665,0.83
+Manorhamilton,88866,1.09
+Mayfield,204717,3.15
+Maynooth,320839,0.65
+Mayorstone Park,250000,#N/A
+Midleton,201953,0.67
+Milford,145465,2.10
+Milford Co Cork,187417,0.52
+Millstreet Co. Cork,96556,1.07
+Milltown,367707,0.87
+Miltown Malbay,131648,0.85
+Mitchelstown,161458,0.78
+Moate,151339,0.58
+Mohill,85069,1.78
+Monaghan,149198,1.59
+Monasterevin,170264,0.62
+Moneygall,383747,0.20
+Monivea,202514,0.45
+Mooncoin,168217,0.68
+Mountbellew,157261,0.56
+Mountcharles,119959,1.03
+Mountjoy,299400,#N/A
+Mountmellick,113279,0.93
+Mountrath,120466,0.92
+Moville,94711,0.68
+Moylough,186662,#N/A
+Moyne,124345,0.79
+Muff,142931,0.98
+Muine Bheag,108125,1.13
+Mullagh,145065,4.26
+Mullinahone,202887,0.60
+Mullinavat,148435,2.39
+Mullingar,162483,1.20
+Multyfarnham,199578,1.07
+Murroe,155314,0.18
+Myshall,198292,0.71
+Naas,290533,1.24
+Navan,204307,0.69
+Nenagh,135443,0.83
+New Ross,117938,1.10
+Newbridge,263832,0.69
+Newcastle West,126271,1.03
+Newmarket,104272,0.77
+Newmarket on Fergus,184023,0.56
+Newport,149620,0.53
+Newport Co Mayo,48500,0.38
+Newtowncunningham,115841,1.50
+Newtownmountkennedy,259305,1.14
+Nobber,108933,1.71
+Oldcastle,118135,0.78
+Omeath,155356,2.25
+Oola,158962,0.30
+Oughterard,191268,1.19
+Oulart,174963,4.40
+Oylegate,143819,2.22
+Pallasgreen,173005,1.46
+Pallaskenry,154683,0.91
+Partry,101667,0.90
+Passage East,177876,0.65
+Passage West,189786,0.38
+Patrickswell,197420,1.27
+Pearse Street,219000,#N/A
+Pettigo,51833,0.48
+Piltown,142278,0.46
+Portarlington,156115,0.64
+Portlaoise,147764,1.05
+Portlaw,106626,0.61
+Portmagee,129521,0.70
+Portroe,122880,0.82
+Portumna,143396,0.60
+Raheny,433126,1.75
+Ramelton,142387,0.60
+Raphoe,113922,1.27
+Rathangan,218677,0.79
+Rathcoole,304578,1.51
+Rathcormac Co Cork,198395,0.52
+Rathdowney,330423,0.99
+Rathdrum,253095,1.09
+Rathfarnham,493191,7.51
+Rathgormack,121688,1.55
+Rathkeale,139661,1.64
+Rathmines,726585,0.69
+Rathmore,133238,0.56
+Rathmullen,188923,0.43
+Rathvilly,151650,0.70
+Recess,139833,#N/A
+Rhode,151483,#N/A
+Riverstown,163296,0.15
+Robertstown,219258,1.29
+Rochfortbridge,152846,0.97
+Rockcorry,73250,0.29
+Ronanstown,255000,#N/A
+Roosky,81853,1.14
+Ros Muc,72500,0.33
+Roscommon,117397,0.99
+Roscrea,109965,0.69
+Rosscarbery,198774,0.77
+Rosses Point,318609,0.45
+Rosslare Harbour,123655,1.18
+Rosslare Strand,187912,0.66
+Roundwood,412150,3.99
+Roxboro Road,88250,28.06
+Salthill,311046,3.18
+Santry,357771,#N/A
+Scariff,160646,1.01
+Schull,237183,0.80
+Scotstown,131575,0.60
+Shankill,450891,18.96
+Shannon,104054,3.19
+Shercock,108624,0.51
+Shevry,93542,0.12
+Shillelagh,139979,1.21
+Shinrone,118785,0.59
+Shrule,182176,0.93
+Sixmilebridge,167355,0.68
+Skerries,356879,0.57
+Skibbereen,175659,0.84
+Skreen,71111,0.14
+Slane,198408,1.11
+Sligo,127672,1.59
+Smear,75000,#N/A
+Sneem,175925,0.43
+Stoneyford,205726,0.66
+Store Street,100000,#N/A
+Stradbally Co Laois,174661,2.43
+Strokestown,90544,0.66
+Stuake,185000,0.79
+Summerhill,264845,0.98
+Sundrive Road,310000,#N/A
+Swanlinbar,124286,0.64
+Swinford,93270,0.80
+Swords,294217,0.89
+Taghmon,122522,3.76
+Tallaght,321389,1.07
+Tallow,114031,0.42
+Tarbert,101784,0.73
+Tarelton,207333,0.72
+Taughmaconnell,152625,0.44
+Templederry,92667,0.54
+Templemore,131371,1.44
+Templetuohy,71333,0.38
+Terenure,574830,2.38
+Thomastown,212784,2.07
+Thurles,123827,1.34
+Timoleague,208373,0.70
+Tinahely,148347,0.54
+Tipperary,105468,1.17
+Togher,250768,31.91
+Toomevara,98438,0.79
+Tralee,121261,1.30
+Tramore,182608,0.93
+Trim,241754,0.76
+Tuam,122558,22.02
+Tubbercurry,92373,0.61
+Tulla,177535,7.06
+Tullamore,156976,1.22
+Tullow,140546,0.70
+Tulsk,87173,1.14
+Urlingford,131779,1.32
+Virginia,177193,0.60
+Watercourse Road,237500,#N/A
+Waterford,128196,1.25
+Watergrasshill,243116,0.47
+Waterville,193997,#N/A
+Westport,188078,0.97
+Wexford,139273,1.18
+Whitegate,144875,0.59
+Wicklow,277539,0.79
+Williamstown,117041,1.48
+Woodford,92764,0.59
+Youghal,126435,0.71
